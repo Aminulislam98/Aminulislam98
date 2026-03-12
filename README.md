@@ -12,11 +12,11 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&label=Profile%20views" alt="profile views" />
   </a>
-</p>
+</p> -->
 
 ---
 
