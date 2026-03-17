@@ -1,28 +1,24 @@
 <!-- PROFILE README: simple, gorgeous, dev-style -->
 
-<h1 align="center">Hi, I'm Aminul islam 👋</h1>
+<h1 align="center">Hi, I'm Aminul Islam 👋</h1>
 <p align="center">
   Aspiring Full-Stack Developer • Learning daily • Building projects step by step
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=700&lines=Learning+HTML+%7C+CSS+%7C+JavaScript;Improving+every+day+with+real+projects;Goal%3A+Become+a+Full-Stack+Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=700&lines=Learning+HTML+%7C+CSS+%7C+JavaScript+%7C+React;Building+UI+with+Tailwind+CSS+%2B+daisyUI;Improving+every+day+with+real+projects;Goal%3A+Become+a+Full-Stack+Developer"
     alt="Typing SVG"
   />
 </p>
 
-<!-- <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&label=Profile%20views" alt="profile views" />
-  </a>
-</p> -->
-
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **HTML, CSS, JavaScript**
-- 🧠 Improving skills with **practice + projects**
+- 🌱 Currently learning **HTML, CSS, JavaScript, React**
+- 🎨 Building responsive UI with **Tailwind CSS + daisyUI**
+- ⚡ Using **daisyUI** to build fast and consistent UI components
+- 🧠 Improving skills with **practice + real projects**
 - 🎯 Goal: **Full-Stack Developer** (Frontend → Backend → Deployment)
 - 💡 I enjoy building clean UI and writing readable code
 
@@ -30,17 +26,22 @@
 
 ### 🧰 Tech Stack (Learning & Using)
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,figma,vscode" />
 </p>
 
-**Next on my roadmap:** React, Node.js, Express, MongoDB
+<p>
+  <img src="https://img.shields.io/badge/daisyUI-%235A0EF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Next on my roadmap:** Node.js, Express, MongoDB
 
 ---
 
 ### 📌 What I’m working on
 - ✅ JavaScript fundamentals (ES6, DOM, events)
-- ✅ Small projects to improve problem-solving
-- 🔜 React components & API practice
+- ✅ React basics (components, props, state)
+- ✅ Tailwind CSS + daisyUI for modern UI
+- 🔜 API integration & advanced React
 
 ---
 
