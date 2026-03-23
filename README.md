@@ -44,17 +44,15 @@ Currently expanding into full stack — **Node.js, Express, and MongoDB** are ne
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aminulislam98&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0f23&title_color=6366f1&icon_color=6366f1&text_color=a5b4fc&border_radius=12"/>
-&nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=aminulislam98&hide_border=true&background=0f0f23&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6b7280&dates=6b7280&currStreakNum=e0e7ff&sideNums=e0e7ff&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aminulislam98&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0f23&title_color=6366f1&icon_color=6366f1&text_color=a5b4fc&border_radius=12"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=aminulislam98&hide_border=true&background=0f0f23&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6b7280&dates=6b7280&currStreakNum=e0e7ff&sideNums=e0e7ff&border_radius=12"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminulislam98&bg_color=0f0f23&color=a5b4fc&line=6366f1&point=e0e7ff&area=true&area_color=312e81&hide_border=true&radius=12&custom_title=Contribution%20Graph" width="95%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aminulislam98&bg_color=0f0f23&color=a5b4fc&line=6366f1&point=e0e7ff&area=true&area_color=312e81&hide_border=true&radius=12&custom_title=Contribution%20Graph"/>
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulislam98&layout=compact&hide_border=true&bg_color=0f0f23&title_color=6366f1&text_color=a5b4fc&border_radius=12&langs_count=8"/>
 
 </div>
 
@@ -88,4 +86,3 @@ Currently expanding into full stack — **Node.js, Express, and MongoDB** are ne
 </div>
 
 <br/>
-
