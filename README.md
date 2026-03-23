@@ -1,61 +1,91 @@
-# Aminul Islam
-### Aspiring Full Stack Developer
 
-📍 United Kingdom &nbsp; · &nbsp; aminurrohman98@gmail.com &nbsp; · &nbsp; Open to collaborations
 
----
+## 👨‍💻 About me
 
-Self-taught developer working toward full stack. Currently building responsive UIs and moving progressively into backend and deployment.
+Hey — I'm **Aminul**, a self-taught developer from the 🇬🇧 **United Kingdom**.
 
----
+I build clean, responsive UIs using **React** and **Tailwind CSS**. No bootcamp. No degree. Just consistency and code.
 
-**Skills**
+Currently expanding into full stack — **Node.js, Express, and MongoDB** are next.
 
-Currently using
+- 🔭 Building full stack projects from front to back
+- 🌱 Learning Node.js · Express · MongoDB · Firebase
+- 💬 Talk to me about React, Tailwind, or UI design
+- 📩 aminurrohman98@gmail.com
+- ⚡ 100% self-taught
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<br/>
 
-Coming next
+## 🛠 Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Shipping with**
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**GitHub Activity**
+**Learning next**
 
-<div align="center">
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aminulislam98&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=6" />
-&nbsp;
-<img height="165" src="https://streak-stats.demolab.com?user=aminulislam98&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=6" />
+<br/>
 
-</div>
+## 📊 Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulislam98&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=6&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aminulislam98&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0f23&title_color=6366f1&icon_color=6366f1&text_color=a5b4fc&border_radius=12"/>
+&nbsp;
+<img height="180" src="https://streak-stats.demolab.com?user=aminulislam98&hide_border=true&background=0f0f23&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6b7280&dates=6b7280&currStreakNum=e0e7ff&sideNums=e0e7ff&border_radius=12"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminulislam98&bg_color=0f0f23&color=a5b4fc&line=6366f1&point=e0e7ff&area=true&area_color=312e81&hide_border=true&radius=12&custom_title=Contribution%20Graph" width="95%"/>
+
+<br/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulislam98&layout=compact&hide_border=true&bg_color=0f0f23&title_color=6366f1&text_color=a5b4fc&border_radius=12&langs_count=8"/>
 
 </div>
 
----
+<br/>
 
-**Connect**
+## 🎯 What I'm working on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+```text
+▸  React patterns — custom hooks, context, performance
+▸  First full stack app — React + Node.js + MongoDB
+▸  UI craft — spacing, typography, component systems
+▸  Moving toward junior roles and freelance work
+```
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aminurrohman98@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminurrohman98@gmail.com)
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1K31GDomoW/?mibextid=wwXIfr)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1K31GDomoW/?mibextid=wwXIfr)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aminulislam98&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
