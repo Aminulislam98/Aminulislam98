@@ -8,7 +8,7 @@ Hey, I'm **Aminul**, a self-taught developer from the 🇬🇧 **United Kingdom*
 
 - 🔭 Building full stack projects from front to back
 - 🌱 Learning Node.js · Express · MongoDB · Firebase
-- 📩 aminurrohman98@gmail.com
+- 📩 aminul@aminulislam.co.uk
 - ⚡ 100% self-taught
 
 ## 🛠 Stack
