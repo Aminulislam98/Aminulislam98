@@ -1,15 +1,7 @@
+Hey, I'm **Aminul**, a Full stack developer from the 🇬🇧 **United Kingdom**.
 
-
-## 👨‍💻 About me
-
-Hey, I'm **Aminul**, a self-taught developer from the 🇬🇧 **United Kingdom**.
-
- Currently expanding into full stack — **Node.js, Express, and MongoDB** are next.
-
-- 🔭 Building full stack projects from front to back
-- 🌱 Learning Node.js · Express · MongoDB · Firebase
-- 📩 aminul@aminulislam.co.uk
-- ⚡ 100% self-taught
+-  Building full stack projects from front to back
+-  aminul@aminulislam.co.uk
 
 ## 🛠 Stack
 
