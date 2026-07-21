@@ -2,33 +2,8 @@
 
 ### Full Stack Developer — London, United Kingdom
 
-<br/>
 
-I build complete web products — from the interface a user sees to the API and database behind it. My recent work includes a fashion e-commerce platform with cart, wishlist, and authentication built from scratch, a startup idea sharing platform with real-time interactions, and a trip planning app — all deployed to production.
 
-I come from a background in care work, which means I think about the people using what I build, not just the code behind it. Currently open to junior and mid level full stack roles in the UK, remote or on site.
-
-<br/>
-
-## Stack
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark&perline=8" height="50" />
-
-<br/>
-
-**Backend and Data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&perline=8" height="50" />
-
-<br/>
-
-**Tooling and Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=dark&perline=8" height="50" />
-
-<br/>
 
 ## Activity
 
